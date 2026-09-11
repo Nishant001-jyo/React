@@ -1,0 +1,11 @@
+*{
+  margin:0;
+  padding: 0;
+  background-color: black;
+}
+button{
+  margin: 10px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: aquamarine;
+}
